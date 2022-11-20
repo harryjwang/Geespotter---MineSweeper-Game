@@ -15,7 +15,7 @@ this easier, a field can be marked as containing a goose. A marked field is a re
 contain a goose. Only hidden fields can be marked and only marked fields can be unmarked. As the fields are
 initially hidden, there is no guarantee that a marked field contains a goose.
 
-he player is presented with the current status of the playing board, where the content of all fields is initially
+The player is presented with the current status of the playing board, where the content of all fields is initially
 unknown. The player is given the option to either reveal a field or to mark or unmark a field as likely occupied
 by a goose, by asking the player whether to reveal or mark/unmark a field and the two coordinates of the
 field.
